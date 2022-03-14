@@ -1,10 +1,13 @@
 .main
 {
     background: black;
-    margin-left: 420px;
-    margin-right: 500px;
-    padding-bottom: 80px;
     border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    padding-right: 50px;
+    padding-bottom: 20px;
+   
+   
 }
 .main h2{
     color:white;
@@ -14,19 +17,19 @@
 }
 .main input[type="text"]
 {
-    margin-left: 70px;
+    margin-left: 60px;
     padding-top:8px;
     padding-bottom:8px;
     padding-left: 20px;
     margin-top: 20px;
-    width: 60%;
+    width: 67%;
     background: linear-gradient(#D6D6D6,rgb(224,224,224));
 }
 .main input[type="email"]
 {
-    margin-left: 70px;
+    margin-left: 60px;
     margin-top: 20px;
-    width: 60%;
+    width: 67%;
     padding-top:8px;
     padding-bottom:8px;
     padding-left: 20px;
@@ -34,7 +37,7 @@
 }
 .main input[type="submit"]
 {
-    margin-left: 250px;
+    margin-left: 170px;
     margin-top: 30px;
     background: linear-gradient(#00ca01,#2aa133);
     border: 1px solid #2c972f;
@@ -47,10 +50,10 @@
 }
 #id1
 {
-    width: 27%;
+    width: 29%;
 }
 #id2
 {
-    width: 27%;
+    width: 29%;
     margin-left: 3px;
 }
